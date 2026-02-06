@@ -1,0 +1,1 @@
+# Assistente-Educacional-Interativo-com-IA-com-LangChain-Groq
