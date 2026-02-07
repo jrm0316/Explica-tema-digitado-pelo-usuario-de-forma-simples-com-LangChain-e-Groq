@@ -38,25 +38,25 @@ Projeto simples e direto, focado em clareza de arquitetura e aprendizado prátic
 Como executar o projeto
   1.) Clone o repositório:
 
-  git clone https://github.com/seu-usuario/assistente-interativo-langchain
+      git clone https://github.com/seu-usuario/assistente-interativo-langchain
 
   2.) Instale as dependências:
 
-  pip install langchain langchain-groq python-dotenv
+      pip install langchain langchain-groq python-dotenv
 
   3.) Crie o arquivo .env com sua chave da Groq:
   
-  GROQ_API_KEY=sua_chave_aqui
+      GROQ_API_KEY=sua_chave_aqui
 
   4.) Execute o script:
 
-  python assistente_interativo_ia.py
+      python assistente_interativo_ia.py
 
 Alterando o tema analisado
 - O tema é definido em tempo de execução.
 - Basta digitar qualquer assunto quando o programa solicitar, por exemplo:
 
-  Digite um tema para a IA explicar: Banco de Dados
+      Digite um tema para a IA explicar: Banco de Dados
 
 -O mesmo código funciona para qualquer tema, sem necessidade de alterações no script.
 
