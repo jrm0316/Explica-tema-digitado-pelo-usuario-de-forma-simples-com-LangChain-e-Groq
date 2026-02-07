@@ -1,4 +1,4 @@
-# Assistente-Educacional-Interativo-com-IA-com-LangChain-Groq
+# Explica-tema-digitado-pelo-usuario-de-forma-simples-com-LangChain-e-Groq
 
 Propósito do projeto
 - Este projeto tem como objetivo criar um assistente educacional interativo, onde o usuário fornece um tema via terminal e a IA responde com uma explicação simples e acessível.
