@@ -36,6 +36,7 @@ Projeto simples e direto, focado em clareza de arquitetura e aprendizado prátic
 
 
 Como executar o projeto
+
   1.) Clone o repositório:
 
       git clone https://github.com/seu-usuario/Explica-tema-digitado-pelo-usuario-de-forma-simples-com-LangChain-e-Groq
