@@ -28,9 +28,13 @@ Tecnologias e conceitos utilizados
 
 Estrutura do projeto
 projeto/
+
 ├── assistente_interativo_ia.py
+
 ├── .env
+
 └── README.md
+
 
 Projeto simples e direto, focado em clareza de arquitetura e aprendizado prático.
 
