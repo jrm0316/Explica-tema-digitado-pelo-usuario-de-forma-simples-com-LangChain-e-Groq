@@ -82,3 +82,6 @@ Por que este projeto é relevante?
 Resumo profissional
 - Projeto desenvolvido em Python utilizando LangChain e Groq para criação de um assistente educacional interativo.
 - O sistema recebe entradas dinâmicas do usuário via terminal e utiliza um modelo de linguagem para gerar explicações claras e acessíveis, aplicando boas práticas de engenharia de prompts e integração com LLMs.
+
+Autor
+  Desenvolvido por Juliano Rodrigues Madeira
